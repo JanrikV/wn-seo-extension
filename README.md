@@ -90,3 +90,13 @@ code of static page layout look like this
 
 ####Configuration
 To configure this Plugin goto Backend *System* then find *My Settings* in left side bar, then click on *SEO Extension* , you will get Configuration options.(refer screenshots)
+
+
+####Original author
+
+Author: AnandPatel
+Original repo: https://github.com/anand-patel/oc-seo-extension
+
+I updated this to work with Winter CMS -> https://wintercms.com
+
+If you found bug, let me know!
