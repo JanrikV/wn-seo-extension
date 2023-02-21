@@ -97,4 +97,6 @@ Original repo: https://github.com/anand-patel/oc-seo-extension
 
 I updated this to work with Winter CMS -> https://wintercms.com
 
-If you found bug, let me know!
+If you found bug, let me know! 
+
+janrik@janrikv.fi
