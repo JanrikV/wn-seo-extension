@@ -22,10 +22,7 @@ __*more fields will be added on request__
 
 ####Future
 * Add more fields on request.
-* Integration of SEO optimizer to optimize page(if possible).
-
-####Like this plugin?
-If you like this plugin, give this plugin a Like or Make donation with PayPal.
+* Integration of SEO optimizer to optimize page (if possible).
 
 
 #Documentation
@@ -94,7 +91,8 @@ To configure this Plugin goto Backend *System* then find *My Settings* in left s
 
 ####Original author
 
-Author: AnandPatel
+Author: **AnandPatel**
+
 Original repo: https://github.com/anand-patel/oc-seo-extension
 
 I updated this to work with Winter CMS -> https://wintercms.com
