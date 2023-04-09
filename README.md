@@ -99,4 +99,4 @@ I updated this to work with Winter CMS (v1.1.10) -> https://wintercms.com
 
 If you found a bug, let me know! 
 
-janrik@janrikv.fi
+moi@janrikv.fi
